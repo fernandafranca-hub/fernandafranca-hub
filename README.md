@@ -10,6 +10,7 @@ Desenvolvendo conhecimentos em programação, desenvolvimento web e banco de dad
 
 ## about-me.sql
 
+```sql
 SELECT
     p.nome,
     p.area,
@@ -23,10 +24,10 @@ INNER JOIN perfil_tecnologias pt
 INNER JOIN tecnologias t
     ON pt.tecnologia_id = t.id
 
+
+
+
 WHERE p.nome = 'Fernanda Berns França';
-
-
-
 
 | nome                  | área                        | tecnologia |
 | --------------------- | --------------------------- | ---------- |
@@ -36,14 +37,13 @@ WHERE p.nome = 'Fernanda Berns França';
 | Fernanda Berns França | Desenvolvimento de Sistemas | CSS        |
 | Fernanda Berns França | Desenvolvimento de Sistemas | PostgreSQL |
 
-___________________________________________________________________________________________________________________________________
+
+_____________________________________________________________________________________
 Objetivo
 
-Aprimorar minhas habilidades em programação, desenvolvimento web e banco de dados, construindo minha carreira na área de tecnologia.
+Aprimorar minhas habilidades em programação, desenvolvimento web e banco de dados,
+construindo minha carreira na área de tecnologia.
 
-
-
-____________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________
 SELECT status FROM carreira;
-
 status: EM CONSTANTE APRENDIZADO
