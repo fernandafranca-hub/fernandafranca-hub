@@ -1,4 +1,6 @@
-# Fernanda Berns França
+# <p align="center">
+  <img src="assets/fernanda-typing.gif" alt="Fernanda Berns França">
+</p>
 
 **Estudante de Desenvolvimento de Sistemas**
 
